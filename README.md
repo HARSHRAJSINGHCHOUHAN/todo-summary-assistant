@@ -20,4 +20,4 @@ A full-stack web app where users can manage personal to-do items, summarize them
 - Click a button to generate a summary using an LLM
 - Send the summary directly to a Slack operations
 
-## 🧑‍💻 Made with ❤️ by HarshRaj Singh Chouhan
+## 🧑‍💻 by HarshRaj Singh Chouhan
